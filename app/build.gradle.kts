@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.date_time_aufgabe"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.date_time_aufgabe"
